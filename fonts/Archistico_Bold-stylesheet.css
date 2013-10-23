@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'archisticobold';
+    font-family: 'ArchisticoBold';
     src: url('Archistico_Bold-webfont.eot');
     src: url('Archistico_Bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('Archistico_Bold-webfont.woff') format('woff'),
@@ -8,5 +8,9 @@
     font-weight: normal;
     font-style: normal;
 
+}
+
+h1 {
+  font-family: "ArchisticoBold", "Times New Roman", Georgia, Serif;
 }
 

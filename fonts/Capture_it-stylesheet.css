@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'capture_itregular';
+    font-family: 'Capture_ItRegular';
     src: url('Capture_it-webfont.eot');
     src: url('Capture_it-webfont.eot?#iefix') format('embedded-opentype'),
          url('Capture_it-webfont.woff') format('woff'),
@@ -10,3 +10,10 @@
 
 }
 
+h1 {
+  font-family: "Capture_ItRegular", "Times New Roman", Georgia, Serif;
+}
+
+h3 {
+  font-family: "Capture_ItRegular", "Times New Roman", Georgia, Serif;
+}
