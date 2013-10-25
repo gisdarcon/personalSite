@@ -2401,6 +2401,11 @@ input[type="button"].btn-block {
   color: #0000FF
 }
 
+.forest-green, .forest-green a {
+  color: #005502
+}
+
+
 .glyphicon {
   position: relative;
   top: 1px;
