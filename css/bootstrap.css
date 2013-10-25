@@ -2393,6 +2393,10 @@ input[type="button"].btn-block {
   color: #fff;
 }
 
+.cobalt-blue, .cobalt-blue a {
+  color: #0047AB
+}
+
 .glyphicon {
   position: relative;
   top: 1px;
